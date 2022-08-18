@@ -1,15 +1,14 @@
-﻿# Hey, I'm chopsueey o/
+<h1> Hi o/
+ I’m @chopsueey <h1>
+
+ Currently, I study Web-Development including:
+ <ul><li>html<li>
+        <li>css<li>
+        <li>js<li>
+        </ul>
 
 
-
- ### I study web-development :relaxed:
- - **html** 
- - **css**
- - **js**
- ### Social
-[twitter](www.twitter.com "twitter") --- [reddit](www.twitter.com) ---[linkedIn](www.twitter.com)
-
-
+ I want to 
 
 <!---
 chopsueey/chopsueey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
