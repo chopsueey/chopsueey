@@ -1,6 +1,10 @@
-# experience with: babylonjs engine, npm, sass, bootstrap, DOM-manipulation
+# Experience with: 
 
-## in the process of becoming a MERN-fullstack-wevdeveloper
+babylonjs engine, npm, sass, bootstrap, DOM-manipulation
+
+## In the process of:
+
+becoming a MERN-fullstack-wevdeveloper
  
  ### Social
 [twitter](www.twitter.com "twitter")
