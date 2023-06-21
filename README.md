@@ -1,6 +1,12 @@
 ## Hi, I'm a webdeveloper from Hamburg, Germany.
 
-I have experience working with: javascript, node.js, react, tailwind, NoSQL(MongoDB) and babylon.js (3D-Webengine).
+I have experience working with: 
+- javascript
+- node.js
+- react
+- tailwind
+- NoSQL(MongoDB)
+- babylon.js (3D-Webengine).
 
 I love to learn new technologies and to create simple and intuitive websites.
  
