@@ -1,12 +1,8 @@
-## In the process of:
+# Hi, I'm a Webdeveloper from Hamburg, Germany.
 
-becoming a MERN-fullstack-wevdeveloper
+I have experience working with: javascript, node.js, react, tailwind, NoSQL(MongoDB) and babylon.js (3D-Webengine).
 
-## Worked with: 
-
-react, nodejs, sass, bootstrap, babylonjs
-
-
+I love to learn new technologies and to create simple and intuitive websites.
  
  ### Social
 [linkedIn](https://www.linkedin.com/in/marius-meyer-4b960926b)
