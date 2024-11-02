@@ -1,16 +1,12 @@
-## Hi, I'm a webdeveloper from Hamburg, Germany.
+## Hi, I'm a webdeveloper from Germany.
 
-I have experience working with: 
-- javascript
-- node.js
-- react
-- tailwind
-- NoSQL(MongoDB)
-- babylon.js (3D-Webengine).
+I work with: 
+
+mainly JavaScript and React.
 
 I love to learn new technologies and to create simple and intuitive websites.
  
- ### Social
-[linkedIn](https://www.linkedin.com/in/marius-meyer-4b960926b)
-[xing](https://www.xing.com/profile/Marius_Meyer054416/cv)
+Contact me here:
+
+[linkedIn](https://www.linkedin.com/in/marius-meyer-4b960926b)  
 [twitter](https://twitter.com/chopsueey1)
