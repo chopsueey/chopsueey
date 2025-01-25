@@ -1,9 +1,5 @@
 ## Hi, I'm a webdeveloper from Germany.
 
-I work with: 
-
-mainly JavaScript and React.
-
 I love to learn new technologies and to create simple and intuitive websites.
  
 Contact me here:
